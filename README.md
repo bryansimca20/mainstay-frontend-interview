@@ -4,7 +4,6 @@
 
 Please run `yarn` beforehand to setup the project's environment and dependencies.
 
----
 ## Available Scripts
 
 In the project directory, you can run:
